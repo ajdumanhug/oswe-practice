@@ -9,3 +9,4 @@ OSWE-like machines
 | Misguided Ghosts | [TryHackMe](https://tryhackme.com/room/misguidedghosts) | PHP | Cross-Site Scripting | Command Injection | No |
 | Cache | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/251) | PHP | SQL Injection + Cracking Bcrypt | Malicious File Upload/Modification | Yes |
 | Magic | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/241) | PHP | Basic SQL Injection | Bypass File Upload | No |
+| Book | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/230) | PHP | SQL Truncation | Cross-Site Scripting to RCE | No |
