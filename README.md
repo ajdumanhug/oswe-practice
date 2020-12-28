@@ -16,8 +16,6 @@ Authentication Bypass Only
 | Machine Name | Source | Language | Authentication Bypass |
 | --- | --- | --- | --- |
 | Mango | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/214) | PHP | NoSQL Injection |
-| 
-
 
 RCE Only
 | Machine Name | Source | Language | RCE |
