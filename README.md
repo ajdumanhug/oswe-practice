@@ -8,3 +8,4 @@ OSWE-like machines
 | All in One | [TryHackMe](https://www.tryhackme.com/room/allinonemj) | PHP | Local File Inclusion | Malicious File Upload/Modification | No |
 | Misguided Ghosts | [TryHackMe](https://tryhackme.com/room/misguidedghosts) | PHP | Cross-Site Scripting | Command Injection | No |
 | Cache | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/251) | PHP | SQL Injection + Cracking Bcrypt | Malicious File Upload/Modification | Yes |
+| Magic | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/241) | PHP | Basic SQL Injection | Bypass File Upload | No |
