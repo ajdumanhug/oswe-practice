@@ -7,3 +7,4 @@ OSWE-like machines
 | Spring | [TryHackMe](https://tryhackme.com/room/spring) | Java | Exposed Git Repository + Bypassing IP restriction | Exploitation of Spring Boot Actuators | Yes |
 | All in One | [TryHackMe](https://www.tryhackme.com/room/allinonemj) | PHP | Local File Inclusion | Malicious File Upload/Modification | No |
 | Misguided Ghosts | [TryHackMe](https://tryhackme.com/room/misguidedghosts) | PHP | Cross-Site Scripting | Command Injection | No |
+| Cache | [HackTheBox](https://www.hackthebox.eu/home/machines/profile/251) | PHP | SQL Injection + Cracking Bcrypt | Malicious File Upload/Modification | Yes |
